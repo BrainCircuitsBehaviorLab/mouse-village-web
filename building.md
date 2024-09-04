@@ -1,5 +1,6 @@
 ---
 title: How to Build
+layout: home
 nav_order: 2
 ---
 
