@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Mouse Village
+description: A website to showcase the Mouse Village project
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://javirm3.github.io/mouse-village-web
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
