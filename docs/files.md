@@ -4,7 +4,9 @@ layout: home
 nav_order: 3
 ---
 
-# 3d Files
+# Files
+
+## 3D Printing Files
 
 Here you can download the stl files required to 3d print and build the mouse village:
 
